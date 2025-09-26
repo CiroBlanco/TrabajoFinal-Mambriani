@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\Documents\\GitHub\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\users\\alumno\\documents\\github\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\frmmesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\frmmesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMesas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\GitHub\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\FrmMesas.cs",
+              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\FrmMesas.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\GitHub\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\FrmMesas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TrabajoFinal-Mambriani\\FrmMesas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:01:22.106Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
