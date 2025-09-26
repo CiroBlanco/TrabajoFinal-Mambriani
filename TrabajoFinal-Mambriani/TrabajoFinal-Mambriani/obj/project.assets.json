@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alumno\\Documents\\GitHub\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj",
+      "projectUniqueName": "E:\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj",
       "projectName": "TrabajoFinal-Mambriani",
-      "projectPath": "C:\\Users\\Alumno\\Documents\\GitHub\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj",
+      "projectPath": "E:\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj",
       "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alumno\\Documents\\GitHub\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\obj\\",
+      "outputPath": "E:\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
