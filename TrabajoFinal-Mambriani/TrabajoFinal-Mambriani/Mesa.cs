@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace TrabajoFinal_Mambriani
 {
-   public class Mesas
+   public class Mesa
     {
         private int Id_Mesa;
         private int Cantidad_Personas;
@@ -54,9 +54,9 @@ namespace TrabajoFinal_Mambriani
 
             GestorConexion.Instancia.ModificarBD(consulta, parametros);
         }
-        public static List<Mesas> TraerTodos()
+        public static List<Mesa> TraerTodos()
         {
-            List<Mesas> listaDeMesas = new List<Mesas>();
+            List<Mesa> listaDeMesas = new List<Mesa>();
 
             string consulta = "SELECT * FROM Mesas";
 
@@ -64,7 +64,7 @@ namespace TrabajoFinal_Mambriani
 
             foreach (DataRow fila in tabla.Rows)
             {
-                Mesas nuevaMesa = new Mesas();
+                Mesa nuevaMesa = new Mesa();
 
                 nuevaMesa.Id_Mesa = int.Parse(fila["Id_Mesa"].ToString());
                 nuevaMesa.Cantidad_Personas= int.Parse(fila["Cantidad_Personas"].ToString());
@@ -76,7 +76,7 @@ namespace TrabajoFinal_Mambriani
             return listaDeMesas;
         }
 
-        public static Mesas TraerUno(int idABuscar)
+        public static Mesa TraerUno(int idABuscar)
         {
             List<SqliteParameter> parametros = new List<SqliteParameter>();
             string consulta = "SELECT * FROM Mesas WHERE Id_Mesa = @Id_Mesa";
@@ -88,7 +88,7 @@ namespace TrabajoFinal_Mambriani
                 return null;
             DataRow fila = tabla.Rows[0];
 
-            Mesas nuevaMesa = new Mesas();
+            Mesa nuevaMesa = new Mesa();
 
             nuevaMesa.Id_Mesa = int.Parse(fila["Id_Mesa"].ToString());
             nuevaMesa.Cantidad_Personas = int.Parse(fila["Cantidad_Personas"].ToString());

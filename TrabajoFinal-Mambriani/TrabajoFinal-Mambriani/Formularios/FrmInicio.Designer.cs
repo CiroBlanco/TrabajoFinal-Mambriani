@@ -62,6 +62,7 @@
             BtnMesas.TabIndex = 1;
             BtnMesas.Text = "Mesas";
             BtnMesas.UseVisualStyleBackColor = false;
+            BtnMesas.Click += BtnMesas_Click;
             // 
             // BtnSectores
             // 

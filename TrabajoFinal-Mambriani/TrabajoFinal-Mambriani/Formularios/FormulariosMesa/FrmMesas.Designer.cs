@@ -39,6 +39,7 @@
             BtnEliminar = new Button();
             LblTituloMesas = new Label();
             pictureBox1 = new PictureBox();
+            BtnVolverMesas = new Button();
             ((System.ComponentModel.ISupportInitialize)DgvMesas).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
@@ -53,7 +54,7 @@
             DgvMesas.Location = new Point(208, 72);
             DgvMesas.Name = "DgvMesas";
             DgvMesas.ReadOnly = true;
-            DgvMesas.Size = new Size(345, 150);
+            DgvMesas.Size = new Size(343, 150);
             DgvMesas.TabIndex = 0;
             // 
             // Id_Mesa
@@ -84,27 +85,29 @@
             // BtnAgregar
             // 
             BtnAgregar.BackColor = Color.Silver;
-            BtnAgregar.Location = new Point(185, 394);
+            BtnAgregar.Location = new Point(208, 228);
             BtnAgregar.Name = "BtnAgregar";
             BtnAgregar.Size = new Size(75, 23);
             BtnAgregar.TabIndex = 1;
             BtnAgregar.Text = "Agregar";
             BtnAgregar.UseVisualStyleBackColor = false;
+            BtnAgregar.Click += BtnAgregar_Click;
             // 
             // BtnEditar
             // 
             BtnEditar.BackColor = Color.Silver;
-            BtnEditar.Location = new Point(333, 394);
+            BtnEditar.Location = new Point(289, 228);
             BtnEditar.Name = "BtnEditar";
             BtnEditar.Size = new Size(75, 23);
             BtnEditar.TabIndex = 2;
             BtnEditar.Text = "Editar";
             BtnEditar.UseVisualStyleBackColor = false;
+            BtnEditar.Click += BtnEditar_Click;
             // 
             // BtnEliminar
             // 
             BtnEliminar.BackColor = Color.Silver;
-            BtnEliminar.Location = new Point(488, 394);
+            BtnEliminar.Location = new Point(370, 228);
             BtnEliminar.Name = "BtnEliminar";
             BtnEliminar.Size = new Size(75, 23);
             BtnEliminar.TabIndex = 3;
@@ -132,12 +135,24 @@
             pictureBox1.TabIndex = 5;
             pictureBox1.TabStop = false;
             // 
+            // BtnVolverMesas
+            // 
+            BtnVolverMesas.BackColor = Color.Silver;
+            BtnVolverMesas.Location = new Point(360, 372);
+            BtnVolverMesas.Name = "BtnVolverMesas";
+            BtnVolverMesas.Size = new Size(95, 23);
+            BtnVolverMesas.TabIndex = 6;
+            BtnVolverMesas.Text = "Volver Inicio";
+            BtnVolverMesas.UseVisualStyleBackColor = false;
+            BtnVolverMesas.Click += BtnVolverMesas_Click;
+            // 
             // FrmMesas
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Sienna;
             ClientSize = new Size(800, 450);
+            Controls.Add(BtnVolverMesas);
             Controls.Add(pictureBox1);
             Controls.Add(LblTituloMesas);
             Controls.Add(BtnEliminar);
@@ -164,5 +179,6 @@
         private DataGridViewTextBoxColumn Id_Sector;
         private Label LblTituloMesas;
         private PictureBox pictureBox1;
+        private Button BtnVolverMesas;
     }
 }
