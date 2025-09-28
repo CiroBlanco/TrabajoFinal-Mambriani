@@ -50,7 +50,7 @@
             DgvMesas.BackgroundColor = Color.FromArgb(255, 255, 128);
             DgvMesas.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             DgvMesas.Columns.AddRange(new DataGridViewColumn[] { Id_Mesa, Cantidad_Personas, Libre, Id_Sector });
-            DgvMesas.Location = new Point(206, 83);
+            DgvMesas.Location = new Point(208, 72);
             DgvMesas.Name = "DgvMesas";
             DgvMesas.ReadOnly = true;
             DgvMesas.Size = new Size(345, 150);
@@ -84,7 +84,7 @@
             // BtnAgregar
             // 
             BtnAgregar.BackColor = Color.Silver;
-            BtnAgregar.Location = new Point(190, 353);
+            BtnAgregar.Location = new Point(185, 394);
             BtnAgregar.Name = "BtnAgregar";
             BtnAgregar.Size = new Size(75, 23);
             BtnAgregar.TabIndex = 1;
@@ -94,7 +94,7 @@
             // BtnEditar
             // 
             BtnEditar.BackColor = Color.Silver;
-            BtnEditar.Location = new Point(352, 353);
+            BtnEditar.Location = new Point(333, 394);
             BtnEditar.Name = "BtnEditar";
             BtnEditar.Size = new Size(75, 23);
             BtnEditar.TabIndex = 2;
@@ -104,7 +104,7 @@
             // BtnEliminar
             // 
             BtnEliminar.BackColor = Color.Silver;
-            BtnEliminar.Location = new Point(491, 353);
+            BtnEliminar.Location = new Point(488, 394);
             BtnEliminar.Name = "BtnEliminar";
             BtnEliminar.Size = new Size(75, 23);
             BtnEliminar.TabIndex = 3;
@@ -114,10 +114,10 @@
             // LblTituloMesas
             // 
             LblTituloMesas.AutoSize = true;
-            LblTituloMesas.BackColor = Color.Orange;
+            LblTituloMesas.BackColor = Color.Transparent;
             LblTituloMesas.Font = new Font("Comic Sans MS", 20.25F, FontStyle.Bold | FontStyle.Underline, GraphicsUnit.Point, 0);
             LblTituloMesas.ForeColor = SystemColors.Control;
-            LblTituloMesas.Location = new Point(311, 31);
+            LblTituloMesas.Location = new Point(320, 22);
             LblTituloMesas.Name = "LblTituloMesas";
             LblTituloMesas.Size = new Size(116, 38);
             LblTituloMesas.TabIndex = 4;
@@ -126,9 +126,9 @@
             // pictureBox1
             // 
             pictureBox1.BackgroundImage = (Image)resources.GetObject("pictureBox1.BackgroundImage");
-            pictureBox1.Location = new Point(-1, 257);
+            pictureBox1.Location = new Point(-1, 292);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(802, 79);
+            pictureBox1.Size = new Size(802, 74);
             pictureBox1.TabIndex = 5;
             pictureBox1.TabStop = false;
             // 
@@ -136,7 +136,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.LightGray;
+            BackColor = Color.Sienna;
             ClientSize = new Size(800, 450);
             Controls.Add(pictureBox1);
             Controls.Add(LblTituloMesas);

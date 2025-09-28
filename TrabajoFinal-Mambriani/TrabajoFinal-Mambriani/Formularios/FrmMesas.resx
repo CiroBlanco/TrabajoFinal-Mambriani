@@ -129,23 +129,11 @@
   <metadata name="Id_Sector.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="Id_Mesa.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="Cantidad_Personas.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="Libre.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="Id_Sector.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="pictureBox1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAdAAAABICAYAAABGH6SaAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wgAADsIBFShKgAAAWEpJREFUeF7tvQmUJFd5Lpi1dK1dlUvsmVXVe0sISQj7zZyDDZ7H2HiwFoSxMagX
+        wQAADsEBuJFr7QAAWEpJREFUeF7tvQmUJFd5Lpi1dK1dlUvsmVXVe0sISQj7zZyDDZ7H2HiwFoSxMagX
         LWhp7eqVTYBtDPYDPD7HNsvh8cxmn/e8gN8z1gpYNtjYgO1Z3jFILQG2GOZZCLOjtbvqn/P9N76oP29F
         ZmV1V2Y1jKLP1xFx48a9//7feyMyqnJVa7tc1dqheNX8TnnVwi65cmGnXAFs2Sn7F3YoLp/fIVfM75Cr
         FnbKq7bskqsWdsm+dItclszLvtY22Te/XXHltt1y7c5z5FVbd8u+5lbZn22Vy5vb5IrmdrmitV2umNuu
