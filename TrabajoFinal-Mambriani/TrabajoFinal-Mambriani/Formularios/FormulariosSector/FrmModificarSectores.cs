@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using Microsoft.Data.Sqlite;
 namespace TrabajoFinal_Mambriani
 {
     public partial class FrmModificarSectores : Form

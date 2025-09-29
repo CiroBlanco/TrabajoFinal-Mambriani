@@ -12,7 +12,7 @@ namespace TrabajoFinal_Mambriani
     {
         private GestorConexion()
         {
-            conexion = new SqliteConnection("Data source= Restaurante.db");
+            conexion = new SqliteConnection("Data source= Restaurante.bd");
         }
         private static GestorConexion _instancia;
 

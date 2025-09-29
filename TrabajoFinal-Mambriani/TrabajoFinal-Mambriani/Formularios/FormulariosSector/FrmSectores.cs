@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using  Microsoft.Data.Sqlite;   
 
 namespace TrabajoFinal_Mambriani
 {
@@ -46,12 +47,35 @@ namespace TrabajoFinal_Mambriani
         private void BtnAgregarSector_Click(object sender, EventArgs e)
         {
             this.Hide();
+            FrmModificarSectores.Instancia.MostrarAgregar();
         }
 
         private void BtnVolverSector_Click(object sender, EventArgs e)
         {
             this.Hide();
             FrmInicio.Instancia.Show();
+        }
+
+        private void BtnEditarSectores_Click(object sender, EventArgs e)
+        {
+            if (DgvSectores.SelectedRows.Count <= 0)
+                return;
+
+            int id;
+            id = (int)DgvSectores.SelectedRows[0].Cells["Id_Sector"].Value;
+            FrmModificarSectores.Instancia.MostrarEditar(Sector.TraerUno(id));
+            this.Hide();
+        }
+
+        private void BtnEliminarSectores_Click(object sender, EventArgs e)
+        {
+            if (DgvSectores.SelectedRows.Count <= 0)
+                return;
+            int idSeleccionado = (int)DgvSectores.SelectedRows[0].Cells["Id_Sector"].Value;
+            Sector sectorAEliminar = Sector.TraerUno(idSeleccionado);
+
+            sectorAEliminar.Eliminar();
+            ActualizarDatagrid();
         }
     }
 }

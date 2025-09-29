@@ -58,5 +58,16 @@ namespace TrabajoFinal_Mambriani
             FrmModificarMesas.Instancia.MostrarEditar(Mesa.TraerUno(id));
             this.Hide();
         }
+
+        private void BtnEliminar_Click(object sender, EventArgs e)
+        {
+            if (DgvMesas.SelectedRows.Count <= 0)
+                return;
+            int idSeleccionado = (int)DgvMesas.SelectedRows[0].Cells["Id_Mesa"].Value;
+            Mesa mesaAEliminar = Mesa.TraerUno(idSeleccionado);
+
+            mesaAEliminar.Eliminar();
+            ActualizarDatagrid();
+        }
     }
 }

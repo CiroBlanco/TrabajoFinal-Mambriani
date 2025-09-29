@@ -88,6 +88,7 @@
             BtnPlatos.TabIndex = 3;
             BtnPlatos.Text = "Platos";
             BtnPlatos.UseVisualStyleBackColor = false;
+            BtnPlatos.Click += BtnPlatos_Click;
             // 
             // BtnMeseros
             // 

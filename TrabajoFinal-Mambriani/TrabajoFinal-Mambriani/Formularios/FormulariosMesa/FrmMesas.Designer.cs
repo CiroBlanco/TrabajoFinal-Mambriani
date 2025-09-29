@@ -113,6 +113,7 @@
             BtnEliminar.TabIndex = 3;
             BtnEliminar.Text = "Eliminar";
             BtnEliminar.UseVisualStyleBackColor = false;
+            BtnEliminar.Click += BtnEliminar_Click;
             // 
             // LblTituloMesas
             // 

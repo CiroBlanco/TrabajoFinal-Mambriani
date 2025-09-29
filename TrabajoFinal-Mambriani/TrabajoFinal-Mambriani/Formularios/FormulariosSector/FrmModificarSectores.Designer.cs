@@ -63,7 +63,7 @@
             // 
             // BtnEditarSector
             // 
-            BtnEditarSector.Location = new Point(12, 109);
+            BtnEditarSector.Location = new Point(12, 80);
             BtnEditarSector.Name = "BtnEditarSector";
             BtnEditarSector.Size = new Size(75, 23);
             BtnEditarSector.TabIndex = 3;
@@ -79,7 +79,7 @@
             BtnCancelarSector.TabIndex = 4;
             BtnCancelarSector.Text = "Cancelar";
             BtnCancelarSector.UseVisualStyleBackColor = true;
-            BtnCancelarSector.Click += this.BtnCancelarSector_Click;
+            BtnCancelarSector.Click += BtnCancelarSector_Click;
             // 
             // FrmModificarSectores
             // 

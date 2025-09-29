@@ -125,7 +125,7 @@
             // 
             // BtnEditarMesa
             // 
-            BtnEditarMesa.Location = new Point(16, 291);
+            BtnEditarMesa.Location = new Point(16, 257);
             BtnEditarMesa.Margin = new Padding(4, 3, 4, 3);
             BtnEditarMesa.Name = "BtnEditarMesa";
             BtnEditarMesa.Size = new Size(130, 28);
@@ -143,7 +143,7 @@
             BtnCancelar.TabIndex = 9;
             BtnCancelar.Text = "Cancelar";
             BtnCancelar.UseVisualStyleBackColor = true;
-            BtnCancelar.Click += this.BtnCancelar_Click;
+            BtnCancelar.Click += BtnCancelar_Click;
             // 
             // FrmModificarMesas
             // 

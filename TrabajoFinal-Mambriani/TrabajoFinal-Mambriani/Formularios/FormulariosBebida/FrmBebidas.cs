@@ -65,7 +65,13 @@ namespace TrabajoFinal_Mambriani
 
         private void BtnEliminarBebida_Click(object sender, EventArgs e)
         {
+            if (DgvBebidas.SelectedRows.Count <= 0)
+                return;
+            int idSeleccionado = (int)DgvBebidas.SelectedRows[0].Cells["Id_Bebida"].Value;
+            Bebida bebidaAEliminar = Bebida.TraerUno(idSeleccionado);
 
+            bebidaAEliminar.Eliminar();
+            ActualizarDatagrid();
         }
 
         private void BtnVolverBebidas_Click(object sender, EventArgs e)

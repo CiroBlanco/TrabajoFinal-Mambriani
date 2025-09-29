@@ -94,6 +94,7 @@
             BtnEditarSectores.TabIndex = 3;
             BtnEditarSectores.Text = "Editar";
             BtnEditarSectores.UseVisualStyleBackColor = true;
+            BtnEditarSectores.Click += BtnEditarSectores_Click;
             // 
             // BtnEliminarSectores
             // 
@@ -103,6 +104,7 @@
             BtnEliminarSectores.TabIndex = 4;
             BtnEliminarSectores.Text = "Eliminar";
             BtnEliminarSectores.UseVisualStyleBackColor = true;
+            BtnEliminarSectores.Click += BtnEliminarSectores_Click;
             // 
             // BtnVolverSector
             // 

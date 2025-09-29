@@ -46,5 +46,11 @@ namespace TrabajoFinal_Mambriani
             FrmSectores.Instancia.MostrarSectores();
             this.Hide();
         }
+
+        private void BtnPlatos_Click(object sender, EventArgs e)
+        {
+            FrmPlatos.Instancia.MostrarPlatos();
+            this.Hide();
+        }
     }
 }

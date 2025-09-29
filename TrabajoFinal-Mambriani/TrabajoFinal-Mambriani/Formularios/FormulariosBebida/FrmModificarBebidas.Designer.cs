@@ -132,11 +132,11 @@
             BtnCancelarBebida.TabIndex = 10;
             BtnCancelarBebida.Text = "Cancelar";
             BtnCancelarBebida.UseVisualStyleBackColor = true;
-            BtnCancelarBebida.Click += this.BtnCancelarBebida_Click;
+            BtnCancelarBebida.Click += BtnCancelarBebida_Click;
             // 
             // BtnEditarBebida
             // 
-            BtnEditarBebida.Location = new Point(27, 484);
+            BtnEditarBebida.Location = new Point(27, 444);
             BtnEditarBebida.Name = "BtnEditarBebida";
             BtnEditarBebida.Size = new Size(84, 34);
             BtnEditarBebida.TabIndex = 11;

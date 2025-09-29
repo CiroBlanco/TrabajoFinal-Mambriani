@@ -66,8 +66,8 @@ namespace TrabajoFinal_Mambriani
 
             Sector nuevoSector = new Sector();
 
-            nuevoSector.Id_Sector = int.Parse(fila["Id_Mesa"].ToString());
-            nuevoSector.Nombre = (fila["Cantidad_Personas"].ToString());
+            nuevoSector.Id_Sector = int.Parse(fila["Id_Sector"].ToString());
+            nuevoSector.Nombre = (fila["Nombre"].ToString());
 
             return nuevoSector;
         }
