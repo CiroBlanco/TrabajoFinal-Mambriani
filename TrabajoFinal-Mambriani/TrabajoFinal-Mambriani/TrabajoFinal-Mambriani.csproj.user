@@ -16,5 +16,11 @@
     <Compile Update="Formularios\FormulariosSector\FrmSectores.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Formularios\FormulariosBebida\FrmModificarBebidas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\FormulariosSector\FrmModificarSectores.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

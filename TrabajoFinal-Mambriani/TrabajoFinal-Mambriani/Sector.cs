@@ -23,7 +23,7 @@ namespace TrabajoFinal_Mambriani
             parametros.Add(new SqliteParameter("@Nombre", Nombre));
             GestorConexion.Instancia.ModificarBD(consulta, parametros);
         }
-        public void Update()
+        public void Actualizar()
         {
             List<SqliteParameter> parametros = new List<SqliteParameter>();
             string consulta = "UPDATE Sectores SET Nombre=@Nombre WHERE Id_Sector = @Id_Sector";

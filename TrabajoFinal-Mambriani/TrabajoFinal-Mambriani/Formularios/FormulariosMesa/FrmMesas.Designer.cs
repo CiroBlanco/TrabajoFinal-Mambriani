@@ -142,7 +142,7 @@
             BtnVolverMesas.Name = "BtnVolverMesas";
             BtnVolverMesas.Size = new Size(95, 23);
             BtnVolverMesas.TabIndex = 6;
-            BtnVolverMesas.Text = "Volver Inicio";
+            BtnVolverMesas.Text = "Volver";
             BtnVolverMesas.UseVisualStyleBackColor = false;
             BtnVolverMesas.Click += BtnVolverMesas_Click;
             // 

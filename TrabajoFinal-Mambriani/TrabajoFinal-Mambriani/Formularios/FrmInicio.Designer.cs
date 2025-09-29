@@ -75,6 +75,7 @@
             BtnSectores.TabIndex = 2;
             BtnSectores.Text = "Sectores";
             BtnSectores.UseVisualStyleBackColor = false;
+            BtnSectores.Click += BtnSectores_Click;
             // 
             // BtnPlatos
             // 
@@ -111,6 +112,7 @@
             BtnBebidas.TabIndex = 5;
             BtnBebidas.Text = "Bebidas";
             BtnBebidas.UseVisualStyleBackColor = false;
+            BtnBebidas.Click += BtnBebidas_Click;
             // 
             // BtnChefs
             // 

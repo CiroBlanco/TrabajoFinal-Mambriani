@@ -53,7 +53,7 @@ namespace TrabajoFinal_Mambriani
                 return;
 
             int id;
-            id = (int)DgvMesas.SelectedRows[0].Cells["Id_Mesas"].Value;
+            id = (int)DgvMesas.SelectedRows[0].Cells["Id_Mesa"].Value;
 
             FrmModificarMesas.Instancia.MostrarEditar(Mesa.TraerUno(id));
             this.Hide();

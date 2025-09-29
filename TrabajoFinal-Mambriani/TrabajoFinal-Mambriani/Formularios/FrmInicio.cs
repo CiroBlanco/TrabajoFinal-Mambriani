@@ -34,5 +34,17 @@ namespace TrabajoFinal_Mambriani
             FrmMesas.Instancia.MostrarMesas();
             this.Hide();
         }
+
+        private void BtnBebidas_Click(object sender, EventArgs e)
+        {
+            FrmBebidas.Instancia.MostrarBebidas();
+            this.Hide();
+        }
+
+        private void BtnSectores_Click(object sender, EventArgs e)
+        {
+            FrmSectores.Instancia.MostrarSectores();
+            this.Hide();
+        }
     }
 }

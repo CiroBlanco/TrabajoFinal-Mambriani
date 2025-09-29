@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\users\\usuario\\desktop\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\formulariosmesa\\frmmodificarmesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\formulariosmesa\\frmmodificarmesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\users\\usuario\\desktop\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\formulariossector\\frmmodificarsectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\formulariossector\\frmmodificarsectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\users\\usuario\\desktop\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\formulariosmesa\\frmmodificarmesas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\formulariosmesa\\frmmodificarmesas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\users\\usuario\\desktop\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\formulariosbebida\\frmmodificarbebidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\formulariosbebida\\frmmodificarbebidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\users\\usuario\\desktop\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\users\\usuario\\desktop\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\sector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\sector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\users\\usuario\\desktop\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\formulariosmesa\\frmmodificarmesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\formulariosmesa\\frmmodificarmesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\users\\usuario\\desktop\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\formulariossector\\frmmodificarsectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\formulariossector\\frmmodificarsectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\users\\usuario\\desktop\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\formulariosmesa\\frmmesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\formulariosmesa\\frmmesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\users\\usuario\\desktop\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\formulariosbebida\\frmmodificarbebidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\formulariosbebida\\frmmodificarbebidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\users\\usuario\\desktop\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\formulariosmesa\\frmmesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\formulariosmesa\\frmmesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\users\\usuario\\desktop\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\formulariossector\\frmmodificarsectores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\formulariossector\\frmmodificarsectores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\users\\usuario\\desktop\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\formulariosbebida\\frmbebidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\formulariosbebida\\frmbebidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\users\\usuario\\desktop\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\formulariossector\\frmsectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\formulariossector\\frmsectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\users\\usuario\\desktop\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\formulariossector\\frmsectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\formulariossector\\frmsectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\users\\usuario\\desktop\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\users\\usuario\\desktop\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,92 +58,142 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmModificarSectores.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosSector\\FrmModificarSectores.Designer.cs",
+              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FormulariosSector\\FrmModificarSectores.Designer.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosSector\\FrmModificarSectores.Designer.cs",
+              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FormulariosSector\\FrmModificarSectores.Designer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAvwFEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:05:26.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sector.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Sector.cs",
+              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Sector.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Sector.cs",
+              "RelativeToolTip": "TrabajoFinal-Mambriani\\Sector.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:04:03.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FrmModificarMesas.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosMesa\\FrmModificarMesas.Designer.cs",
-              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FormulariosMesa\\FrmModificarMesas.Designer.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosMesa\\FrmModificarMesas.Designer.cs",
-              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FormulariosMesa\\FrmModificarMesas.Designer.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAqwHoAAAA6AAAAAAAAAA==",
+              "Title": "FrmModificarBebidas.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosBebida\\FrmModificarBebidas.cs",
+              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FormulariosBebida\\FrmModificarBebidas.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosBebida\\FrmModificarBebidas.cs",
+              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FormulariosBebida\\FrmModificarBebidas.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T17:22:03.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmModificarMesas.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosMesa\\FrmModificarMesas.cs",
-              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FormulariosMesa\\FrmModificarMesas.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosMesa\\FrmModificarMesas.cs*",
-              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FormulariosMesa\\FrmModificarMesas.cs*",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwDoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T16:24:09.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmMesas.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosMesa\\FrmMesas.cs",
-              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FormulariosMesa\\FrmMesas.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosMesa\\FrmMesas.cs*",
-              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FormulariosMesa\\FrmMesas.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T14:13:49.26Z",
+              "WhenOpened": "2025-09-28T23:52:54.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmModificarMesas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosMesa\\FrmModificarMesas.cs",
-              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FormulariosMesa\\FrmModificarMesas.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosMesa\\FrmModificarMesas.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FormulariosMesa\\FrmModificarMesas.cs [Dise\u00F1o]*",
+              "Title": "FrmModificarSectores.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosSector\\FrmModificarSectores.cs",
+              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FormulariosSector\\FrmModificarSectores.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosSector\\FrmModificarSectores.cs",
+              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FormulariosSector\\FrmModificarSectores.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwC0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T16:24:05.122Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmMesas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosMesa\\FrmMesas.cs",
-              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FormulariosMesa\\FrmMesas.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosMesa\\FrmMesas.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FormulariosMesa\\FrmMesas.cs [Dise\u00F1o]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T16:14:45.24Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Mesa.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Mesa.cs",
-              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Mesa.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Mesa.cs",
-              "RelativeToolTip": "TrabajoFinal-Mambriani\\Mesa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T16:08:39.23Z",
+              "WhenOpened": "2025-09-28T23:52:23.418Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "FrmModificarBebidas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosBebida\\FrmModificarBebidas.cs",
+              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FormulariosBebida\\FrmModificarBebidas.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosBebida\\FrmModificarBebidas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FormulariosBebida\\FrmModificarBebidas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:52:51.164Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmModificarSectores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosSector\\FrmModificarSectores.cs",
+              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FormulariosSector\\FrmModificarSectores.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosSector\\FrmModificarSectores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FormulariosSector\\FrmModificarSectores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:47:59.814Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "FrmInicio.cs",
               "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FrmInicio.cs",
               "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FrmInicio.cs",
               "ToolTip": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FrmInicio.cs",
               "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FrmInicio.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T16:30:23.802Z",
+              "WhenOpened": "2025-09-28T23:45:34.929Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FrmInicio.cs",
+              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FrmInicio.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FrmInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FrmInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:45:33.277Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmBebidas.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosBebida\\FrmBebidas.cs",
+              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FormulariosBebida\\FrmBebidas.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosBebida\\FrmBebidas.cs",
+              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FormulariosBebida\\FrmBebidas.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwBEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:38:29.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmSectores.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosSector\\FrmSectores.cs",
+              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FormulariosSector\\FrmSectores.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosSector\\FrmSectores.cs",
+              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FormulariosSector\\FrmSectores.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:37:44.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmSectores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosSector\\FrmSectores.cs",
+              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FormulariosSector\\FrmSectores.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosSector\\FrmSectores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FormulariosSector\\FrmSectores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:27:50.646Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
