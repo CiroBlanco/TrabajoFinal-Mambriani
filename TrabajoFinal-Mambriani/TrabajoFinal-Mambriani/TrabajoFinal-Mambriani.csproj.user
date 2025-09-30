@@ -28,5 +28,11 @@
     <Compile Update="Formularios\FormulariosPlatos\FrmModificarPlatos.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Formularios\FormulariosChefs\FrmChefs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\FormulariosChefs\FrmModificarChefs.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

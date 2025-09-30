@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrabajoFinal-Mambriani")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc39974f5d4edacea1c86c48686bd8e0f33ff279")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dce201392fdd1dbf5052566a5ed7d3b71f35f43")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrabajoFinal-Mambriani")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrabajoFinal-Mambriani")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

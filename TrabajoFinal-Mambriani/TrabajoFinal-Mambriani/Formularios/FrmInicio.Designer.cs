@@ -126,6 +126,7 @@
             BtnChefs.TabIndex = 6;
             BtnChefs.Text = "Chefs";
             BtnChefs.UseVisualStyleBackColor = false;
+            BtnChefs.Click += BtnChefs_Click;
             // 
             // FrmInicio
             // 
