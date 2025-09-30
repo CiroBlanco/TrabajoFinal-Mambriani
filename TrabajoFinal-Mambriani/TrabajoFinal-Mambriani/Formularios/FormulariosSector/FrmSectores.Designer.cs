@@ -119,10 +119,10 @@
             // LblSectores
             // 
             LblSectores.AutoSize = true;
-            LblSectores.Font = new Font("Comic Sans MS", 20.25F, FontStyle.Bold | FontStyle.Underline, GraphicsUnit.Point, 0);
+            LblSectores.Font = new Font("MV Boli", 20.25F, FontStyle.Bold | FontStyle.Underline, GraphicsUnit.Point, 0);
             LblSectores.Location = new Point(304, 9);
             LblSectores.Name = "LblSectores";
-            LblSectores.Size = new Size(164, 38);
+            LblSectores.Size = new Size(160, 34);
             LblSectores.TabIndex = 6;
             LblSectores.Text = "SECTORES";
             // 
@@ -130,7 +130,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.FromArgb(128, 128, 255);
+            BackColor = Color.FromArgb(255, 128, 128);
             ClientSize = new Size(800, 450);
             Controls.Add(LblSectores);
             Controls.Add(BtnVolverSector);
