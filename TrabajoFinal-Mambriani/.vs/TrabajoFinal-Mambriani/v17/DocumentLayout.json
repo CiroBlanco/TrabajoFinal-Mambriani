@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\formulariosmesero\\frmmodificarmesero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\formulariosmesero\\frmmodificarmesero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\formulariosmesero\\frmmodificarmesero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\formulariosmesero\\frmmodificarmesero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\formularioschefs\\frmchefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\formularioschefs\\frmchefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\formulariosmesero\\frmmesero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\formulariosmesero\\frmmesero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\formulariosmesero\\frmmesero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\formulariosmesero\\frmmesero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\formularioschefs\\frmchefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\formularioschefs\\frmchefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|c:\\trabajofinal-mambriani\\trabajofinal-mambriani\\trabajofinal-mambriani\\formularios\\formularioschefs\\frmmodificarchefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335B77B1-60A2-49DC-BE01-4C607FDD1B56}|TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani.csproj|solutionrelative:trabajofinal-mambriani\\formularios\\formularioschefs\\frmmodificarchefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,77 +30,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmInicio.cs",
-              "DocumentMoniker": "C:\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FrmInicio.cs",
-              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FrmInicio.cs",
-              "ToolTip": "C:\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FrmInicio.cs",
-              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FrmInicio.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAWwEAAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "FrmModificarChefs.cs",
+              "DocumentMoniker": "C:\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosChefs\\FrmModificarChefs.cs",
+              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FormulariosChefs\\FrmModificarChefs.cs",
+              "ToolTip": "C:\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosChefs\\FrmModificarChefs.cs",
+              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FormulariosChefs\\FrmModificarChefs.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwFkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T19:39:17.459Z",
+              "WhenOpened": "2025-10-03T20:05:01.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmModificarMesero.cs",
+              "DocumentMoniker": "C:\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosMesero\\FrmModificarMesero.cs",
+              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FormulariosMesero\\FrmModificarMesero.cs",
+              "ToolTip": "C:\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosMesero\\FrmModificarMesero.cs*",
+              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FormulariosMesero\\FrmModificarMesero.cs*",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwFwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:46:40.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FrmInicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FrmInicio.cs",
-              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FrmInicio.cs",
-              "ToolTip": "C:\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FrmInicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FrmInicio.cs [Dise\u00F1o]",
+              "Title": "FrmModificarMesero.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosMesero\\FrmModificarMesero.cs",
+              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FormulariosMesero\\FrmModificarMesero.cs",
+              "ToolTip": "C:\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosMesero\\FrmModificarMesero.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FormulariosMesero\\FrmModificarMesero.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T19:39:14.725Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmChefs.cs",
-              "DocumentMoniker": "C:\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosChefs\\FrmChefs.cs",
-              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FormulariosChefs\\FrmChefs.cs",
-              "ToolTip": "C:\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosChefs\\FrmChefs.cs",
-              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FormulariosChefs\\FrmChefs.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAtwC0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T19:36:42.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmChefs.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosChefs\\FrmChefs.cs",
-              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FormulariosChefs\\FrmChefs.cs",
-              "ToolTip": "C:\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosChefs\\FrmChefs.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FormulariosChefs\\FrmChefs.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T19:36:39.213Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmMesero.cs",
-              "DocumentMoniker": "C:\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosMesero\\FrmMesero.cs",
-              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FormulariosMesero\\FrmMesero.cs",
-              "ToolTip": "C:\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosMesero\\FrmMesero.cs",
-              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FormulariosMesero\\FrmMesero.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAwwCcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T19:36:22.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmMesero.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosMesero\\FrmMesero.cs",
-              "RelativeDocumentMoniker": "TrabajoFinal-Mambriani\\Formularios\\FormulariosMesero\\FrmMesero.cs",
-              "ToolTip": "C:\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\TrabajoFinal-Mambriani\\Formularios\\FormulariosMesero\\FrmMesero.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TrabajoFinal-Mambriani\\Formularios\\FormulariosMesero\\FrmMesero.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T19:29:50.417Z",
+              "WhenOpened": "2025-10-03T19:42:16.537Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
