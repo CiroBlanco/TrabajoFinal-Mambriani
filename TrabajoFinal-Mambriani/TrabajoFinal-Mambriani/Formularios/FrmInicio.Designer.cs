@@ -101,6 +101,7 @@
             BtnMeseros.TabIndex = 4;
             BtnMeseros.Text = "Meseros";
             BtnMeseros.UseVisualStyleBackColor = false;
+            BtnMeseros.Click += BtnMeseros_Click;
             // 
             // BtnBebidas
             // 

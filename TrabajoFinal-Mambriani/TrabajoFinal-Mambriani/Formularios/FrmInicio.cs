@@ -58,5 +58,11 @@ namespace TrabajoFinal_Mambriani
             FrmChefs.Instancia.MostrarChefs();
             this.Hide();
         }
+
+        private void BtnMeseros_Click(object sender, EventArgs e)
+        {
+            FrmMesero.Instancia.MostrarMeseros();
+            this.Hide();
+        }
     }
 }
