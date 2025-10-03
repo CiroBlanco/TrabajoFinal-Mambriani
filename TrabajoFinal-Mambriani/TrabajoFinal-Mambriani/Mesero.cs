@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -51,16 +52,59 @@ namespace TrabajoFinal_Mambriani
                 parametros.Add(new SqliteParameter("@Horario_Inicio", Horario_Inicio));
                 parametros.Add(new SqliteParameter("@Horario_Fin", Horario_Fin));
                 parametros.Add(new SqliteParameter("@Id_Sector", Id_Sector));
-                parametros.Add(new SqliteParameter("@Id_Chef", Id_Mesero));
+                parametros.Add(new SqliteParameter("@Id_Mesero", Id_Mesero));
                 GestorConexion.Instancia.ModificarBD(consulta, parametros);
         }
         public void Eliminar()
         {
             List<SqliteParameter> parametros = new List<SqliteParameter>();
             string consulta = "DELETE FROM Chefs WHERE Id_Mesero = @Id_Mesero";
-            parametros.Add(new SqliteParameter("@Id_Chef", Id_Mesero));
+            parametros.Add(new SqliteParameter("@Id_Mesero", Id_Mesero));
             GestorConexion.Instancia.ModificarBD(consulta, parametros);
         }
-        sdsd
+        public static List<Mesero> TraerTodos()
+        {
+            List<Mesero> listaDeMeseros = new List<Mesero>();
+            string consulta = "SELECT * FROM Mesero";
+            DataTable tabla = GestorConexion.Instancia.ConsultarBD(consulta, null);
+            foreach (DataRow fila in tabla.Rows)
+            {
+                Mesero nuevoMesero = new Mesero();
+                nuevoMesero.Id_Mesero = int.Parse(fila["Id_Mesero"].ToString());
+                nuevoMesero.Nombre_Completo = fila["Nombre_Completo"].ToString();
+                nuevoMesero.Dni = int.Parse(fila["Dni"].ToString());
+                nuevoMesero.Telefono = int.Parse(fila["Telefono"].ToString());
+                nuevoMesero.Fecha_Nacimiento = DateTime.Parse(fila["Fecha_Nacimiento"].ToString());
+                nuevoMesero.Horario_Inicio = DateTime.Parse(fila["Horario_Inicio"].ToString());
+                nuevoMesero.Horario_Fin = DateTime.Parse(fila["Horario_Fin"].ToString());
+                nuevoMesero.Id_Sector = int.Parse(fila["Id_Sector"].ToString());
+                listaDeMeseros.Add(nuevoMesero);
+            }
+            return listaDeMeseros;
+        }
+        public static Mesero TraerUno(int idABuscar)
+        {
+            List<SqliteParameter> parametros = new List<SqliteParameter>();
+            string consulta = "SELECT * FROM Meseros WHERE Id_Mesero = @Id_Mesero";
+
+            parametros.Add(new SqliteParameter("@Id_Mesero", idABuscar));
+
+            DataTable tabla = GestorConexion.Instancia.ConsultarBD(consulta, parametros);
+            if (tabla == null || tabla.Rows.Count <= 0)
+                return null;
+            DataRow fila = tabla.Rows[0];
+
+            Mesero nuevoMesero = new Mesero();
+            nuevoMesero.Id_Mesero = int.Parse(fila["Id_Mesero"].ToString());
+            nuevoMesero.Nombre_Completo = fila["Nombre_Completo"].ToString();
+            nuevoMesero.Dni = int.Parse(fila["Dni"].ToString());
+            nuevoMesero.Telefono = int.Parse(fila["Telefono"].ToString());
+            nuevoMesero.Fecha_Nacimiento = DateTime.Parse(fila["Fecha_Nacimiento"].ToString());
+            nuevoMesero.Horario_Inicio = DateTime.Parse(fila["Horario_Inicio"].ToString());
+            nuevoMesero.Horario_Fin = DateTime.Parse(fila["Horario_Fin"].ToString());
+            nuevoMesero.Id_Sector = int.Parse(fila["Id_Sector"].ToString());
+
+            return nuevoMesero;
+        }
     }
 }
